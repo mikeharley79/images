@@ -2,14 +2,21 @@
 
 1. Create a github account
 2. Sign up
-3. Fill in details
-4. Solve a visual or audio puzzle
-5. Confirm your email address by entering code
-6. Sign in to continue
-7. Create a new public repository
-8. Upload file
-9. Drag file
-10. Commit changes
-11. Select image
-12. Right click to grab url
-13. Paste in address bar and copy new direct url
+  ![Sign Up Button](SignUp.png)
+
+ 
+5. Fill in details
+    ![Sign In Details](SignIn.png)
+   
+7. Solve a visual or audio puzzle
+8. Confirm your email address by entering code
+9. Sign in to continue
+10. Create a new public repository
+    ![Create a public repository](CreatePublicRepos.png)
+12. Upload file
+    ![Upload the files](UploadFiles.png)
+14. Drag file
+15. Commit changes
+16. Select image
+17. Right click to grab url
+18. Paste in address bar and copy new direct url
