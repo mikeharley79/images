@@ -10,3 +10,6 @@
 8. Upload file
 9. Drag file
 10. Commit changes
+11. Select image
+12. Right click to grab url
+13. Paste in address bar and copy new direct url
