@@ -41,7 +41,7 @@
    
 3. In the branch section select the drop down that reads None and select main as the branch to publish
 ###
-   ![Select branch](branch.png)
+![Select branch](branch.png)
    
 4. Save to apply the changes
    ###
