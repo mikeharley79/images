@@ -40,14 +40,14 @@
    ![Select Pages](pages.png)
    
 3. In the branch section select the drop down that reads None and select main as the branch to publish
-4. ###
+###
    ![Select branch](branch.png)
    
-5. Save to apply the changes
-6. ###
+4. Save to apply the changes
+   ###
    ![Save changes](saveBranch.png)
-7. Wait 5 mins for changes to take affect
-8. Go back into settings, pages and the url for the website will be at the top
+5. Wait 5 mins for changes to take affect
+6. Go back into settings, pages and the url for the website will be at the top
     ###
    ![view URL](siteLive.png)
 
