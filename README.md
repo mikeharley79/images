@@ -35,5 +35,14 @@
 1. From the repository select the settings button from the top menu
    ###
    ![Settings Button](Settings.png)
-2. 
+2. Navigate the left menu and select Pages
+   ![Select Pages](pages.png)
+   ###
+3. In the branch section select the drop down that reads None and select main as the branch to publish
+   ![Select branch](branch.png)
+   ###
+4. Save to apply the changes
+   ![Save changes](saveBranch.png)
+5. Wait 5 mins for changes to take affect
+6. Go back into settings, pages and the url for the website will be at the top
 
