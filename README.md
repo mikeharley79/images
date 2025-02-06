@@ -30,5 +30,10 @@
     ###
 ![URL](URL.png)
 
+## (Optional) Set up a server in git
 
+1. From the repository select the settings button from the top menu
+   ###
+   ![Settings Button](Settings.png)
+2. 
 
