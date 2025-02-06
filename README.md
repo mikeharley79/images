@@ -36,13 +36,18 @@
    ###
    ![Settings Button](Settings.png)
 2. Navigate the left menu and select Pages
+3. ###
    ![Select Pages](pages.png)
-   ###
-3. In the branch section select the drop down that reads None and select main as the branch to publish
+   
+4. In the branch section select the drop down that reads None and select main as the branch to publish
+5. ###
    ![Select branch](branch.png)
-   ###
-4. Save to apply the changes
+   
+6. Save to apply the changes
+7. ###
    ![Save changes](saveBranch.png)
-5. Wait 5 mins for changes to take affect
-6. Go back into settings, pages and the url for the website will be at the top
+8. Wait 5 mins for changes to take affect
+9. Go back into settings, pages and the url for the website will be at the top
+    ###
+   ![view URL](siteLive.png)
 
