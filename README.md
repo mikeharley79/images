@@ -1,27 +1,33 @@
 # How to set up images in github
 
 1. Create a github account
-2. Sign up
+2. Click the Sign up button
+
   ![Sign Up Button](SignUp.png)
-#
+###
  
-5. Fill in details
-    ![Sign In Details](SignIn.png)
+3. Fill in the details
+   ###
+   ![Sign In Details](SignIn.png)
    
-7. Solve a visual or audio puzzle
-8. Confirm your email address by entering code
-9. Sign in to continue
-10. Create a new public repository
+4. Solve a visual or audio puzzle
+5. Confirm your email address by entering code
+6. Sign in to continue
+7. Create a new public repository
+   ###
     ![Create a public repository](CreatePublicRepos.png)
-12. Upload file
+8. Click the uploading an existing file link
     ![Upload the files](UploadFiles.png)
-14. Drag file
-15. Commit changes
-16. Select image
+9. Drag the file from file explorer to the drag drop frame
+10. Commit changes
+11. Select the image
+    ###
     ![Click Image](ClickImage.png)
-18. Right click to grab url
+12. Right click and select copy image link to grab the url to the clipboard
+    ###
     ![Copy Link](CopyLink.png)
-20. Paste in address bar and copy new direct url
+13. Paste the URL in address bar and copy new direct url back on to the clipboard. This is the link that will be entered in the database for Power BI.
+    ###
 ![URL](URL.png)
 
 
